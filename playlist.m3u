@@ -51,3 +51,5 @@ http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1007151.ts
 http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1053445.ts
 #EXTINF:-1 tvg-id="Al Hayat.ar" tvg-name="AR: AL HAYAT SD" tvg-logo="" group-title="Arabic",AR: AL HAYAT SD
 http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1007042.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 FHD
+http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/339574.ts
