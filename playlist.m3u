@@ -45,3 +45,5 @@ http://149.62.177.103:8000/play/a08h?checkedby:iptvlister.com
 http://149.62.177.103:8000/play/a08c?checkedby:iptvlister.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal +
 http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/312707.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DMC Drama
+http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1007151.ts
