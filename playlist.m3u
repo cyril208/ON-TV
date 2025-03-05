@@ -47,3 +47,5 @@ http://149.62.177.103:8000/play/a08c?checkedby:iptvlister.com
 http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/312707.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DMC Drama
 http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1007151.ts
+#EXTINF:-1 tvg-id="Abu Dhabi FM.ar" tvg-name="AR: ABU DHABI FHD" tvg-logo="" group-title="Arabic",AR: ABU DHABI FHD
+http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1053445.ts
