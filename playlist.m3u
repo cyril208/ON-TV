@@ -45,13 +45,7 @@ http://149.62.177.103:8000/play/a08h?checkedby:iptvlister.com
 http://149.62.177.103:8000/play/a08c?checkedby:iptvlister.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal +
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/15960
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DMC Drama
-http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1007151.ts
-#EXTINF:-1 tvg-id="Abu Dhabi FM.ar" tvg-name="AR: ABU DHABI FHD" tvg-logo="" group-title="Arabic",AR: ABU DHABI FHD
-http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1053445.ts
-#EXTINF:-1 tvg-id="Al Hayat.ar" tvg-name="AR: AL HAYAT SD" tvg-logo="" group-title="Arabic",AR: AL HAYAT SD
-http://exm3u.77xxs.xyz:80/live/Jurado0925Y/Aweypktyt122/1007042.ts
-#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZICMrfq9MvQbvt-oIViC-c7he1wRAN6C8qZ3sjmB6g3uMTjcjf5yjhnxZ-pOy5VQT9JLPoHHzbZW7V1x5LexcNA.png" group-title="",FR: CANAL+ SPORT HD
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZICMrfq9MvQbvt-oIViC-c7he1wRAN6C8qZ3sjmB6g3uMTjcjf5yjhnxZ-pOy5VQT9JLPoHHzbZW7V1x5LexcNA.png" group-title="",CANAL+ SPORT HD
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/12710
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FOOT" tvg-logo="" group-title="",FR: CANAL+ FOOT
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FOOT" tvg-logo="" group-title="",CANAL+ FOOT
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/23624
