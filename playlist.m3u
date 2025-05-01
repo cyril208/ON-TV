@@ -49,3 +49,9 @@ http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/15960
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/12710
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ FOOT" tvg-logo="" group-title="",CANAL+ FOOT
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/23624
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="",Boomerang
+http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/17625
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="",Disney JR
+http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/1770
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="",Nickelodeon
+http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/8612
