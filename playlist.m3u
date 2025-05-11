@@ -55,3 +55,5 @@ http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/17625
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/1770
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="",Nickelodeon
 http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/8612
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1" tvg-logo="" group-title="",Bein Sport 1
+http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/23615
