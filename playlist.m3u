@@ -1,59 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rotana Clip
-https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rotana Cinema
-https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rotana Classic
-https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Drama
-https://edge66.magictvbox.com/liveApple/MBC_Drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Bollywood
-https://edge66.magictvbox.com/liveApple/MBC_Bollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 3
-https://edge66.magictvbox.com/liveApple/MBC_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CBC
-https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CBC Drama
-https://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DMC
-https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AL Nahar
-https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Panomara Film
-https://edge66.magictvbox.com/liveApple/panorama_film/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aghapy TV
-https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Coptic TV
-https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KOOGI
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 4
-https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Masr
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC + Drama
-https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dubai TV
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ON Drama
-http://149.62.177.103:8000/play/a08h?checkedby:iptvlister.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ON E
-http://149.62.177.103:8000/play/a08c?checkedby:iptvlister.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal +
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/15960
-#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZICMrfq9MvQbvt-oIViC-c7he1wRAN6C8qZ3sjmB6g3uMTjcjf5yjhnxZ-pOy5VQT9JLPoHHzbZW7V1x5LexcNA.png" group-title="",CANAL+ SPORT HD
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/12710
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FOOT" tvg-logo="" group-title="",CANAL+ FOOT
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/23624
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="",Boomerang
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/17625
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="",Disney JR
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/1770
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="",Nickelodeon
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/8612
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1" tvg-logo="" group-title="",Bein Sport 1
-http://iptv1.kavkom.tv:8000/garytest@gmail.com/1234/23615
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 1
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/841
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 2
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/842
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 3
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/843
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 4
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/844
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 5
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/845
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 6
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/846
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 7
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/847
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS PREMIUM 1
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/853
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS PREMIUM 2
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/854
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS PREMIUM 3
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/855
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 1
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/835
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 2
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/836
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 3
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/837
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 4
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/838
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS MAX 6
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/840
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT VIP",FR: CANAL+ FOOT
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/369
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 360
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/370
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/371
+#EXTINF:-1 tvg-id="Canal +" tvg-name="FR: CANAL+" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL.png" group-title="FR | TOP CHAINES VIP",FR: CANAL+
+http://vipambataousam.top:8080/VIP018931749329001479/f9fb9e225596/418
